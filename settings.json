@@ -61,7 +61,7 @@
   },
   "autoCreateDB": false,
   "MongoConfig": {
-    "status": true,
+    "status": false,
     "uri": "MONGO_URI",
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
